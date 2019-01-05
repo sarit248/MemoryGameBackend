@@ -1,0 +1,6 @@
+C:\Users\efi\source\repos\MatchMemoryGame\02- Bussiness Entitie Layer\bin\Debug\02- Bussiness Entitie Layer.dll
+C:\Users\efi\source\repos\MatchMemoryGame\02- Bussiness Entitie Layer\bin\Debug\02- Bussiness Entitie Layer.pdb
+C:\Users\efi\source\repos\MatchMemoryGame\02- Bussiness Entitie Layer\obj\Debug\02- Bussiness Entitie Layer.csprojResolveAssemblyReference.cache
+C:\Users\efi\source\repos\MatchMemoryGame\02- Bussiness Entitie Layer\obj\Debug\02- Bussiness Entitie Layer.csproj.CoreCompileInputs.cache
+C:\Users\efi\source\repos\MatchMemoryGame\02- Bussiness Entitie Layer\obj\Debug\02- Bussiness Entitie Layer.dll
+C:\Users\efi\source\repos\MatchMemoryGame\02- Bussiness Entitie Layer\obj\Debug\02- Bussiness Entitie Layer.pdb
